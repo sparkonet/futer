@@ -1,0 +1,31 @@
+﻿<?xml version="2.0" encoding="UTF-8" standalone="yes" ?> 
+
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<layoutype>wolverine</layoutype>
+
+<dir>
+	<title>[B]עונה 1[/B]</title>
+	<meta>
+	<imdb>tt5607976</imdb>
+	<content>season</content>
+	<season>1</season>
+	<year>2019</year>
+	</meta>
+	<link></link>
+	<thumbnail>https://www.themoviedb.org/t/p/original/igLvcDbjnNLlJIz2MtsrBSgCUa7.jpg</thumbnail>
+</dir>
+
+<dir>
+	<title>[B]עונה 2[/B]</title>
+	<meta>
+	<imdb>tt5607976</imdb>
+	<content>season</content>
+	<season>2</season>
+	<year>2019</year>
+	</meta>
+	<link></link>
+	<thumbnail>https://www.themoviedb.org/t/p/original/qBGJkcHQlGYB6l5ksDoN11NczYc.jpg</thumbnail
+</dir>
+
+
